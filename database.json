@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Anna",
+      "email": "anna@example.com",
+      "phone": "+7000000000"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "phone": "+71111111111"
+    },
+    {
+      "id": 3,
+      "name": "Cameron",
+      "email": "cameron@example.com",
+      "phone": "+72222222222"
+    },
+    {
+      "id": 4,
+      "name": "Donald",
+      "email": "donald@example.com",
+      "phone": "+73333333333"
+    },
+    {
+      "id": 5,
+      "name": "Edward",
+      "email": "edward@example.com",
+      "phone": "+74444444444"
+    },
+    {
+      "id": 6,
+      "name": "Fiona",
+      "email": "fiona@example.com",
+      "phone": "+75555555555"
+    },
+    {
+      "id": 7,
+      "name": "John",
+      "email": "john@example.com",
+      "phone": "+76666666666"
+    }
+  ]
+}
